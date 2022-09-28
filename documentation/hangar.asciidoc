@@ -134,12 +134,12 @@ include::azure-devops/setup-library-package-pipeline.asciidoc[leveloffset=+3]
 
 ==== Environment provisioning pipeline
 
-include::https://github.com/isandesh1986/hangar/blob/EKS_Provisioning_Github/documentation/github/setup-eks-provisioning-pipeline.asciidoc[leveloffset=+4]
+include::github/setup-eks-provisioning-pipeline.asciidoc[leveloffset=+4]
 
 <<<<
 
-include::https://github.com/prathibhapadma/hangar/blob/feature/github_aks_provision/documentation/github/setup-aks-provisioning-pipeline.asciidoc[leveloffset=+4]
+include::github/setup-aks-provisioning-pipeline.asciidoc[leveloffset=+4]
 
 <<<<
 
-include::https://github.com/prathibhapadma/hangar/blob/feature/github_deploy_workflow/documentation/github/setup-deploy-pipeline.asciidoc[leveloffset=+3]
+include::github/setup-deploy-pipeline.asciidoc[leveloffset=+3]
